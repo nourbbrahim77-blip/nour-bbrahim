@@ -1,5 +1,5 @@
 👋 About Me
-<img width="1080" height="2340" alt="1777368423339" src="https://github.com/user-attachments/assets/d142ca31-08e6-4f3e-a191-73d4db52bbf0" />
+
 
 
 Hi! I’m passionate about programming and technology 💻✨
