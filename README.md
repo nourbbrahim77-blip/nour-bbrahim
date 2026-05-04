@@ -13,18 +13,18 @@ I’m currently improving my skills in coding and problem-solving. 💻✨
  Learning new technologies
 
  
-## 🛠️ Skills
+### 🛠️ Skills
 HTML / CSS 
 JavaScript 
 Git & GitHub 
 
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 Advanced JavaScript 
 Frameworks like React 
 Improving my programming logic 
 
-## 🚀 Goals
+### 🚀 Goals
 > I am becoming a full stack developer.
 
 
