@@ -29,7 +29,7 @@ Improving my programming logic
 
 
 ### 📁 Projects
-- YouTube Clone (HTML, CSS) [Explore it](https://coming soon)
+- YouTube Clone (HTML, CSS) 
 - Amazon E-commerce Clone (HTML, CSS, Jascript)
 
 ## contact
