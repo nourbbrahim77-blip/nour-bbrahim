@@ -2,9 +2,9 @@
 
 
 
-Hi! I’m passionate about programming and technology 💻✨
-I enjoy learning new things and building creative projects 
-I’m currently improving my skills in coding and problem-solving 
+Hi! I’m passionate about programming and technology.
+I enjoy learning new things and building creative projects. 
+I’m currently improving my skills in coding and problem-solving. 💻✨
 
 .Interests
  Web Development
