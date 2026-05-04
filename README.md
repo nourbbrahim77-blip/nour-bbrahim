@@ -28,6 +28,9 @@ Improving my programming logic
 > I am becoming a full stack developer.
 
 
+### 📁 Projects
+- YouTube Clone (HTML, CSS) [Explore it](https://coming soon)
+- Amazon E-commerce Clone (HTML, CSS, Jascript)
 
 ## contact
 Email : nourbbrahim77@gmil.com
