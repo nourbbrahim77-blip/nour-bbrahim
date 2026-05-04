@@ -19,16 +19,15 @@ JavaScript
 Git & GitHub 
 
 
-.📚 Currently Learning
+## 📚 Currently Learning
 Advanced JavaScript 
 Frameworks like React 
 Improving my programming logic 
 
-
-.🚀 Goals
+## 🚀 Goals
 > I am becoming a full stack developer.
 
 
 
-.contact
+## contact
 Email : nourbbrahim77@gmil.com
