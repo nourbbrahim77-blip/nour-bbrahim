@@ -13,7 +13,7 @@ I’m currently improving my skills in coding and problem-solving. 💻✨
  Learning new technologies
 
  
-.🛠️ Skills
+## 🛠️ Skills
 HTML / CSS 
 JavaScript 
 Git & GitHub 
