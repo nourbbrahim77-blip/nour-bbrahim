@@ -26,7 +26,9 @@ Improving my programming logic
 
 
 .🚀 Goals
-in thr future i want to become a professional programmer.
+> I am becoming a full stack developer.
+
+
 
 .contact
 Email : nourbbrahim77@gmil.com
